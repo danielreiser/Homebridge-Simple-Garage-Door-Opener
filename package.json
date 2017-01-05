@@ -1,0 +1,31 @@
+{
+  "name": "homebridge-simple-garage-door-opener",
+  "version": "1.0.5",
+  "description": "Garage Door Opener plugin for Homebridge with auto-states",
+  "author": "Daniel Reiser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielreiser/Homebridge-Simple-Garage-Door-Opener.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielreiser/Homebridge-Simple-Garage-Door-Opener/issues",
+    "email": "hello@reiserdesign.de"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "garage",
+    "garagedoor",
+    "home"
+  ],
+  "engines": {
+    "node": ">=6.4.0",
+    "homebridge": ">=0.3.0"
+  },
+  "dependencies": {
+    "rpio": "^0.9.13"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
